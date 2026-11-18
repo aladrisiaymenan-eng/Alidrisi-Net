@@ -126,9 +126,14 @@ flutter build apk --release --split-per-abi --target-platform android-arm64
 
 أضف معلومات الترخيص ووسيلة التواصل الرسمية هنا قبل نشر المستودع على نطاق واسع.
 
-## الإصدار
+## الإصدار الحالي — v1.1.1
 
-- **APK:** `Alidrisi-Net-arm64.apk`
+- **APK مباشر:** [تنزيل Alidrisi-Net-arm64.apk](https://github.com/aladrisiaymenan-eng/Alidrisi-Net/releases/download/v1.1.1/Alidrisi-Net-arm64.apk)
+- **صفحة الإصدار:** [v1.1.1 على GitHub](https://github.com/aladrisiaymenan-eng/Alidrisi-Net/releases/tag/v1.1.1)
 - **المعمارية:** `arm64-v8a`
-- **نوع الإصدار:** Release
-- **مصدر المشروع:** `Alidrisi_Net_source.zip`
+- **الحجم التقريبي:** 22.5 MB
+- **SHA-256:** `7cdaf0b195531fbddcf9d597e53fe97ffc3c9473b6c593a28554d36c8ba0eb78`
+- **مصدر المشروع:** `releases/Alidrisi_Net_source.zip`
+- **تقرير الإصلاح:** `releases/تقرير_إصلاح_استمرارية_الأدريسي_نت.md`
+
+تم في هذا الإصدار إصلاح استعادة خدمات الخلفية وسياسات VPN بعد إعادة التشغيل، وإضافة تعافٍ لعداد السرعة، مع استمرار قراءة الاستخدام كل ثانيتين.
